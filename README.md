@@ -1,4 +1,4 @@
-EPOCH Batteries Website
+EPOCH Batteries Clone Website
 A modern and responsive website for EPOCH Batteries, designed to showcase battery products and provide relevant information to potential customers. 
 This project is built using HTML5, CSS3, Bootstrap 5, and JavaScript.
 
